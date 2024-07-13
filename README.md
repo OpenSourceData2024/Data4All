@@ -91,8 +91,10 @@
 - 参与国际开源社区的各类活动，增加项目的国际影响力。
 - 通过详细的顶层设计方案，“Data4All”（海纳百川）项目将能够在开源数据领域树立起强有力的品牌形象，吸引广泛的用户和贡献者，推动数据开放和共享的普及与应用。
 
-最后，通过 ChatGPT 生成了几个 logo：
+最后，通过 ChatGPT 生成了一个 logo：
 
 <div align=center>
-<img src="https://github.com/user-attachments/assets/0f461b9f-471c-4ddc-99d7-5ccaf6db87be" width="200px">
+<img src="https://github.com/user-attachments/assets/0d4b4269-c979-41d7-832a-514c441ee416" width="300px">
 </div>
+
+

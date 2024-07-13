@@ -91,6 +91,32 @@
 - 参与国际开源社区的各类活动，增加项目的国际影响力。
 - 通过详细的顶层设计方案，“Data4All”（海纳百川）项目将能够在开源数据领域树立起强有力的品牌形象，吸引广泛的用户和贡献者，推动数据开放和共享的普及与应用。
 
+### 七、参考项目
+
+#### 1、Common Crawl
+
+[Common Crawl](https://commoncrawl.org/) 是一个非营利组织，致力于构建和维护一个开源的互联网数据集，提供免费的网络抓取数据，涵盖网页文本、结构和元数据。该项目的目标是推动创新和研究，支持自然语言处理、搜索引擎优化和数据分析等领域的应用。
+
+#### 2、Dolma
+
+[Dolma](https://allenai.github.io/dolma/) 是由 Allen Institute for AI 创建的开源数据集和工具包，专用于语言模型预训练。数据集包含3万亿个标记，来源广泛，并提供在 HuggingFace Hub 上下载。Dolma 工具包支持高性能数据处理，内置标记工具和去重功能，适用于单机和云环境，可通过 pip 安装。
+
+#### 3、RefinedWeb
+
+[RefinedWeb](https://arxiv.org/abs/2306.01116) 是为 Falcon 大型语言模型 (LLM) 预训练开发的高质量五万亿标记的纯网络数据集，通过严格的过滤和去重处理，证明仅使用网络数据即可训练出超越使用传统精选语料库的模型。RefinedWeb 提供了一个 6000 亿标记的公开数据集和训练好的语言模型，旨在为自然语言处理社区提供新的高质量基准数据集。
+
+#### 4、Pile
+
+[Pile](https://pile.eleuther.ai/) 是一个 825G 的开源数据集，专为语言模型设计，由 22 个高质量的小数据集组成。它涵盖了书籍、GitHub 仓库、网页和学术论文等多种文本来源，旨在增强大型语言模型的泛化能力和跨领域知识。
+
+#### 5、Zyda
+
+[Zyda](https://neurohive.io/en/datasets/zyda-1-3t-dataset-for-open-language-modeling/)  是一个开源数据集，包含1.3万亿标记，专为语言模型预训练设计。该数据集通过整合RefinedWeb、Starcoder、C4、Pile 等多个高质量数据集，并进行严格的过滤和去重处理，旨在提供一个高性能且易于使用的数据集，适用于大规模语言模型的训练和实验。
+
+#### 6、RedPajama
+
+[RedPajama](https://huggingface.co/datasets/togethercomputer/RedPajama-Data-V2)  是一个开源数据集项目，提供了30万亿标记的网络数据集，用于语言模型训练。该数据集从超过100万亿标记的原始数据中经过严格过滤和去重处理，涵盖了英语、法语、西班牙语、德语和意大利语五种语言。RedPajama-Data-v2 包含40多种预计算的质量注释，为进一步的数据过滤和加权提供了工具，是目前最大且专门为大型语言模型训练设计的公共数据集。
+
 最后，通过 ChatGPT 生成了一个 logo：
 
 <div align=center>
